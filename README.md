@@ -72,8 +72,4 @@ penguin-analysis/
 Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data.* R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/
 
 ## Authors
-
-Jake Cosgrave
-And now Phoebe Hartley, I suppose :)
-
-
+Jake Cosgrave, and Phoebe Hartley, I suppose :)
